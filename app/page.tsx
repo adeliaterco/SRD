@@ -135,7 +135,7 @@ export default function Home() {
 
             <div className="mt-6 text-center">
               <p className="text-gray-500 text-xs">
-                🔒 Acceso seguro y cifrado
+                �� Acceso seguro y cifrado
               </p>
             </div>
           </div>
@@ -255,21 +255,21 @@ export default function Home() {
           </a>
         </div>
 
-        {/* Tarjeta El Protocolo de Reapertura Digital */}
+        {/* Tarjeta El Protocolo de Reapertura Digital - BÔNUS 1 */}
         <div className="mb-12">
           <a 
             href="https://el-protocolo-de-reapertu-3e8te6p.gamma.site/"
-            
             className="block relative group"
           >
             <div className="relative bg-gray-800 rounded-3xl p-6 md:p-10 border-2 border-transparent transition-all duration-500 overflow-hidden cursor-pointer hover:border-blue-500 hover:-translate-y-2 hover:shadow-2xl hover:shadow-blue-500/20">
               
               <div className="relative z-10 flex flex-col md:flex-row items-center gap-6 md:gap-8">
-                <div className="flex-shrink-0 w-40 md:w-48 h-56 md:h-64 rounded-2xl overflow-hidden border-2 border-blue-500 transition-transform duration-300 group-hover:scale-105 bg-gradient-to-br from-blue-900 to-blue-700 flex items-center justify-center">
-                  <div className="text-center text-white p-4">
-                    <div className="text-4xl mb-2">📱</div>
-                    <div className="text-sm font-bold">PROTOCOLO DIGITAL</div>
-                  </div>
+                <div className="flex-shrink-0 w-40 md:w-48 h-56 md:h-64 rounded-2xl overflow-hidden border-2 border-blue-500 transition-transform duration-300 group-hover:scale-105">
+                  <img
+                    src="http://renacer21.shop/wp-content/uploads/2025/10/Captura-de-Tela-2025-10-01-as-02.07.00.png"
+                    alt="El Protocolo de Reapertura Digital"
+                    className="w-full h-full object-cover"
+                  />
                 </div>
 
                 <div className="flex-1 text-center md:text-left">
@@ -310,21 +310,21 @@ export default function Home() {
           </a>
         </div>
 
-        {/* Tarjeta Manual de la Situación Transitoria */}
+        {/* Tarjeta Manual de la Situación Transitoria - BÔNUS 2 */}
         <div className="mb-12">
           <a 
             href="https://manual-de-la-situacion-t-ea95ugd.gamma.site/"
-            
             className="block relative group"
           >
             <div className="relative bg-gray-800 rounded-3xl p-6 md:p-10 border-2 border-transparent transition-all duration-500 overflow-hidden cursor-pointer hover:border-purple-500 hover:-translate-y-2 hover:shadow-2xl hover:shadow-purple-500/20">
               
               <div className="relative z-10 flex flex-col md:flex-row items-center gap-6 md:gap-8">
-                <div className="flex-shrink-0 w-40 md:w-48 h-56 md:h-64 rounded-2xl overflow-hidden border-2 border-purple-500 transition-transform duration-300 group-hover:scale-105 bg-gradient-to-br from-purple-900 to-purple-700 flex items-center justify-center">
-                  <div className="text-center text-white p-4">
-                    <div className="text-4xl mb-2">⏳</div>
-                    <div className="text-sm font-bold">SITUACIÓN TRANSITORIA</div>
-                  </div>
+                <div className="flex-shrink-0 w-40 md:w-48 h-56 md:h-64 rounded-2xl overflow-hidden border-2 border-purple-500 transition-transform duration-300 group-hover:scale-105">
+                  <img
+                    src="http://renacer21.shop/wp-content/uploads/2025/10/Captura-de-Tela-2025-10-01-as-02.07.47.png"
+                    alt="Manual de la Situación Transitoria"
+                    className="w-full h-full object-cover"
+                  />
                 </div>
 
                 <div className="flex-1 text-center md:text-left">
@@ -365,21 +365,21 @@ export default function Home() {
           </a>
         </div>
 
-        {/* Tarjeta La Técnica de la Comunicación Irresistible */}
+        {/* Tarjeta La Técnica de la Comunicación Irresistible - BÔNUS 3 */}
         <div className="mb-12">
           <a 
             href="https://la-tecnica-de-la-comunic-u4okwlk.gamma.site/"
-            
             className="block relative group"
           >
             <div className="relative bg-gray-800 rounded-3xl p-6 md:p-10 border-2 border-transparent transition-all duration-500 overflow-hidden cursor-pointer hover:border-green-500 hover:-translate-y-2 hover:shadow-2xl hover:shadow-green-500/20">
               
               <div className="relative z-10 flex flex-col md:flex-row items-center gap-6 md:gap-8">
-                <div className="flex-shrink-0 w-40 md:w-48 h-56 md:h-64 rounded-2xl overflow-hidden border-2 border-green-500 transition-transform duration-300 group-hover:scale-105 bg-gradient-to-br from-green-900 to-green-700 flex items-center justify-center">
-                  <div className="text-center text-white p-4">
-                    <div className="text-4xl mb-2">💬</div>
-                    <div className="text-sm font-bold">COMUNICACIÓN IRRESISTIBLE</div>
-                  </div>
+                <div className="flex-shrink-0 w-40 md:w-48 h-56 md:h-64 rounded-2xl overflow-hidden border-2 border-green-500 transition-transform duration-300 group-hover:scale-105">
+                  <img
+                    src="http://renacer21.shop/wp-content/uploads/2025/10/Captura-de-Tela-2025-10-01-as-02.08.22.png"
+                    alt="La Técnica de la Comunicación Irresistible"
+                    className="w-full h-full object-cover"
+                  />
                 </div>
 
                 <div className="flex-1 text-center md:text-left">
@@ -420,11 +420,10 @@ export default function Home() {
           </a>
         </div>
 
-        {/* Tarjeta Las 7 Estrategias Turbo */}
+        {/* Tarjeta Las 7 Estrategias Turbo - BÔNUS 4 */}
         <div className="mb-12">
           <a 
             href="https://las-7-estrategias-turbo--jhu8l60.gamma.site/"
-            
             className="block relative group"
           >
             <div className="relative bg-gray-800 rounded-3xl p-6 md:p-10 border-2 border-transparent transition-all duration-500 overflow-hidden cursor-pointer hover:border-orange-500 hover:-translate-y-2 hover:shadow-2xl hover:shadow-orange-500/20">
@@ -434,11 +433,12 @@ export default function Home() {
               </div>
 
               <div className="relative z-10 flex flex-col md:flex-row items-center gap-6 md:gap-8">
-                <div className="flex-shrink-0 w-40 md:w-48 h-56 md:h-64 rounded-2xl overflow-hidden border-2 border-orange-500 transition-transform duration-300 group-hover:scale-105 bg-gradient-to-br from-orange-900 to-orange-700 flex items-center justify-center">
-                  <div className="text-center text-white p-4">
-                    <div className="text-4xl mb-2">⚡</div>
-                    <div className="text-sm font-bold">7 ESTRATEGIAS TURBO</div>
-                  </div>
+                <div className="flex-shrink-0 w-40 md:w-48 h-56 md:h-64 rounded-2xl overflow-hidden border-2 border-orange-500 transition-transform duration-300 group-hover:scale-105">
+                  <img
+                    src="http://renacer21.shop/wp-content/uploads/2025/10/Captura-de-Tela-2025-10-01-as-02.09.26.png"
+                    alt="Las 7 Estrategias Turbo de Reaproximación"
+                    className="w-full h-full object-cover"
+                  />
                 </div>
 
                 <div className="flex-1 text-center md:text-left">
