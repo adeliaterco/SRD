@@ -71,7 +71,7 @@ export default function Home() {
           <div className="text-center mb-8">
             <div className="relative w-32 h-32 mx-auto mb-6 rounded-3xl overflow-hidden border-4 border-red-500 shadow-2xl">
               <img
-                src="http://renacer21.shop/wp-content/uploads/2025/10/e2efea68-67e9-4983-b6d0-daa77584fa54.png"
+                src="http://renacer21.shop/wp-content/uploads/2025/10/Generated-Image-October-02-2025-8_45PM.png"
                 alt="Método RENACER21"
                 className="w-full h-full object-cover"
               />
@@ -203,7 +203,7 @@ export default function Home() {
               <div className="relative z-10 flex flex-col md:flex-row items-center gap-6 md:gap-8">
                 <div className="flex-shrink-0 w-40 md:w-48 h-56 md:h-64 rounded-2xl overflow-hidden border-2 border-red-500 transition-transform duration-300 group-hover:scale-105">
                   <img
-                    src="http://renacer21.shop/wp-content/uploads/2025/10/e2efea68-67e9-4983-b6d0-daa77584fa54.png"
+                    src="http://renacer21.shop/wp-content/uploads/2025/10/Generated-Image-October-02-2025-8_45PM.png"
                     alt="MÉTODO RENACER21"
                     className="w-full h-full object-cover"
                   />
@@ -270,7 +270,7 @@ export default function Home() {
               <div className="relative z-10 flex flex-col md:flex-row items-center gap-6 md:gap-8">
                 <div className="flex-shrink-0 w-40 md:w-48 h-56 md:h-64 rounded-2xl overflow-hidden border-2 border-blue-500 transition-transform duration-300 group-hover:scale-105">
                   <img
-                    src="http://renacer21.shop/wp-content/uploads/2025/10/Captura-de-Tela-2025-10-01-as-02.07.00.png"
+                    src="http://renacer21.shop/wp-content/uploads/2025/10/6483cc44-a27c-4c02-9697-7fddd4ebd21f.png"
                     alt="Lista Secreta de Compras"
                     className="w-full h-full object-cover"
                   />
@@ -329,7 +329,7 @@ export default function Home() {
               <div className="relative z-10 flex flex-col md:flex-row items-center gap-6 md:gap-8">
                 <div className="flex-shrink-0 w-40 md:w-48 h-56 md:h-64 rounded-2xl overflow-hidden border-2 border-purple-500 transition-transform duration-300 group-hover:scale-105">
                   <img
-                    src="http://renacer21.shop/wp-content/uploads/2025/10/Captura-de-Tela-2025-10-01-as-02.07.47.png"
+                    src="http://renacer21.shop/wp-content/uploads/2025/10/sRrYbxrUoOMWNwdcjXSc8.png"
                     alt="Calendario de Transformación 21 Días"
                     className="w-full h-full object-cover"
                   />
@@ -388,7 +388,7 @@ export default function Home() {
               <div className="relative z-10 flex flex-col md:flex-row items-center gap-6 md:gap-8">
                 <div className="flex-shrink-0 w-40 md:w-48 h-56 md:h-64 rounded-2xl overflow-hidden border-2 border-green-500 transition-transform duration-300 group-hover:scale-105">
                   <img
-                    src="http://renacer21.shop/wp-content/uploads/2025/10/Captura-de-Tela-2025-10-01-as-02.08.22.png"
+                    src="http://renacer21.shop/wp-content/uploads/2025/10/WjRNQsdSBbne_cEhcracz.png"
                     alt="Menú Maestro Semanal"
                     className="w-full h-full object-cover"
                   />
@@ -447,7 +447,7 @@ export default function Home() {
               <div className="relative z-10 flex flex-col md:flex-row items-center gap-6 md:gap-8">
                 <div className="flex-shrink-0 w-40 md:w-48 h-56 md:h-64 rounded-2xl overflow-hidden border-2 border-orange-500 transition-transform duration-300 group-hover:scale-105">
                   <img
-                    src="http://renacer21.shop/wp-content/uploads/2025/10/Captura-de-Tela-2025-10-01-as-02.09.26.png"
+                    src="http://renacer21.shop/wp-content/uploads/2025/10/6vH_AZmTwESDjXZ-miLEc.png"
                     alt="Diario de Evolución Científica"
                     className="w-full h-full object-cover"
                   />
@@ -506,7 +506,7 @@ export default function Home() {
               <div className="relative z-10 flex flex-col md:flex-row items-center gap-6 md:gap-8">
                 <div className="flex-shrink-0 w-40 md:w-48 h-56 md:h-64 rounded-2xl overflow-hidden border-2 border-yellow-500 transition-transform duration-300 group-hover:scale-105">
                   <img
-                    src="http://renacer21.shop/wp-content/uploads/2025/10/e2efea68-67e9-4983-b6d0-daa77584fa54.png"
+                    src="http://renacer21.shop/wp-content/uploads/2025/10/xm6KnP7LGLeKzQ8yzYxit.png"
                     alt="Guía de Supervivencia Social"
                     className="w-full h-full object-cover"
                   />
